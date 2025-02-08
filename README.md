@@ -1,7 +1,7 @@
 # DON'T PANIC!
-![Game Play Gif](/docs/gameplay.gif)
-
 A simple top-down RPG where you interact with everyday items with one specific aim – DON'T HAVE A PANIC ATTACK!
+
+![Game Play Gif](/docs/gameplay.gif)
 
 An educational tool, DON'T PANIC! is based off [Dr. Dan Siegel's *Healthy Mind Platter*](https://www.drdansiegel.com/resources/healthy_mind_platter/), a mental health resource outlining what your brain needs on a daily basis to maintain optimal mental health.
 
